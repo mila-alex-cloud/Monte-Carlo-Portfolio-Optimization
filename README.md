@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulation
+# Monte-Carlo-Portfolio-Optimization
 
 1. The Portfolio Optimization Problem
 * It identifies the Efficient Frontier - a line representing the best possible return you can get for any given level of risk.
