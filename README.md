@@ -2,7 +2,7 @@
 
 1. The Portfolio Optimization Problem
 * It identifies the Efficient Frontier - a line representing the best possible return you can get for any given level of risk.
-* It helps you choose a specific "recipe" (weights) for your assets that maximizes your Sharpe Ratio or minimizes your volatility.
+* It helps to choose a specific "recipe" (weights) that maximizes Sharpe Ratio or minimizes volatility.
 * It assumes markets are "perfect" and that historical averages (mean and covariance) will stay exactly the same in the future, which rarely happens. 
 
 2. Monte Carlo Simulation (The "Reality" Stress-Test)
