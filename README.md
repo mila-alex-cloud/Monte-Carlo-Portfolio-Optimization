@@ -10,12 +10,13 @@ This project features the following concepts:
 2. **Efficient Frontier**
    * This is the set of optimal portfolios that offer the maximum possible expected return for any given level of risk (standard deviation). It represents the upper boundary of the investment opportunity set.
      
-4. **The Global Minimum Variance Portfolio**
+3. **The Global Minimum Variance Portfolio**
    * This is a unique point on the frontier representing the lowest possible risk (volatility) achievable using only risky assets. It is the "safest" possible combination in the model.
      
-6. **The Optimal Portfolio.**
+4. **The Optimal Portfolio.**
    * While the Efficient Frontier provides a range of efficient options, the Optimal Portfolio is the specific combination of assets that maximizes the Sharpe Ratio (the best risk-adjusted return).
-     
-8. **Capital Market Line (CML)**
+   * This is the specific point on the Efficient Frontier where a line starting from the Risk-Free Rate touches the curve perfectly.
+
+5. **Capital Market Line (CML)**
    * It shows the risk/return profiles of portfolios that optimally combine a risk-free asset and the market portfolio
-   * In advanced theory (incorporating a risk-free rate), the Optimal Portfolio is found where the Capital Allocation Line (CAL) is exactly tangent to the Efficient Frontier.
+   
