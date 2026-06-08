@@ -17,7 +17,7 @@ This project features the following concepts:
    * While the Efficient Frontier provides a range of efficient options, the Optimal Portfolio is the specific combination of assets that maximizes the Sharpe Ratio (the best risk-adjusted return).
    * This is the specific point on the Efficient Frontier where a line starting from the Risk-Free Rate touches the curve perfectly.
 
-5. **Capital Market Line (CML)**
-   * It shows the risk/return profiles of portfolios that optimally combine a risk-free asset and the market portfolio
+5. **Capital Market Line (CAL)**
+   * It shows the risk/return profiles of portfolios that optimally combine a risk-free asset and risky assets
 
 <img width="696" height="523" alt="image" src="https://github.com/user-attachments/assets/14fecea7-df12-46d9-a706-f80718ce825d" />
