@@ -20,4 +20,5 @@ This project features the following concepts:
 5. **Capital Market Line (CAL)**
    * It shows the risk/return profiles of portfolios that optimally combine a risk-free asset and risky assets
 
-<img width="696" height="523" alt="image" src="https://github.com/user-attachments/assets/14fecea7-df12-46d9-a706-f80718ce825d" />
+<img width="939" height="701" alt="image" src="https://github.com/user-attachments/assets/5b30380d-b066-4ad1-b474-9ec04f5dc4b8" />
+
